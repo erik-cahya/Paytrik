@@ -1,0 +1,5 @@
+
+# Jika tidak ada file yang bernama index, maka blok aksesnya ke folder ini
+
+Options -Indexes
+
